@@ -1,1 +1,1 @@
-This is a test message intending to test whether the CURL commands work!
+Testing the update function with curl command.
